@@ -1,21 +1,23 @@
 # User picker
-Muitas vezes precisamos fazer login com vários tipos de usuário, e não temos uma forma fácil de intercanbear os dados de login no insomnia.
-Este plugin tem como objetivo te ajudar a manter dados de login e intercambear facilmente quando for necessário.
+Many times we need to login with several types of users, and we don't have an easy way to exchange login data in insomnia.
+
+This plugin aims to help you keep login data and easily exchange it when needed.
 
 ## Creating your first login entry
-Clique no menu dropdown do Documento.
+Click the Document dropdown menu.
 
-![Dropdown menu](https://github.com/gabrieljsilva/insomnia-plugin-user-picker/blob/master/icon.svg/src/assets/screenshot-1.png?raw=true)
+![Dropdown menu](https://raw.githubusercontent.com/gabrieljsilva/insomnia-plugin-user-picker/master/src/assets/screenshot-1.png)
 
-Em seguida clique no botão "Add user":
+Then click on the "Add user" button:
 
-![Dropdown menu](https://github.com/gabrieljsilva/insomnia-plugin-user-picker/blob/master/icon.svg/src/assets/screenshot-2.png?raw=true)
+![Dropdown menu](https://raw.githubusercontent.com/gabrieljsilva/insomnia-plugin-user-picker/master/src/assets/screenshot-2.png)
 
-e em seguida adicione os dados do formulário.
-- name: É o nome do usuário que irá aparecer no menu;
-- identifier: É um identificador qualque que será utilizado como credencial (E-mail, ou nome de usuário);
-- password: É a senha do usuário;
+and then add the form data.
 
-Após isso o nome do usuário ficará disponível na lista
+- name: It is the user name that will appear in the menu;
+- identifier: It is any identifier that will be used as a credential (E-mail, or username);
+- password: It is the user's password;
 
-![Dropdown menu](https://github.com/gabrieljsilva/insomnia-plugin-user-picker/blob/master/icon.svg/src/assets/screenshot-3.png?raw=true)
+After that the username will be available in the list
+
+![Dropdown menu](https://raw.githubusercontent.com/gabrieljsilva/insomnia-plugin-user-picker/master/src/assets/screenshot-3.png)
