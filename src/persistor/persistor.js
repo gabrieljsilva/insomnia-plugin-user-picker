@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 module.exports = class Persistor {
-  static #filePath = './user-picker-data.json'
+  static #filePath = path.join(__dirname, 'user-picker-data.json');
 
   static async setItem(key, value) {
     try {
