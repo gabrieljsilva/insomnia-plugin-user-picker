@@ -1,7 +1,4 @@
-# User picker
-Many times we need to login with several types of users, and we don't have an easy way to exchange login data in insomnia.
-
-This plugin aims to help you keep login data and easily exchange it when needed.
+This plugin aims to solve a frequent problem for developers when testing their APIs: switching between different user profiles. With the User Picker, you can keep a list of users and switch between them easily.
 
 ## Creating your first login entry
 Click the Document dropdown menu.
