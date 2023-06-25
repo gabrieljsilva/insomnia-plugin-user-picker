@@ -1,4 +1,5 @@
 const fs = require('fs')
+const path = require('path')
 
 module.exports = class Persistor {
   static #filePath = path.join(__dirname, 'user-picker-data.json');
